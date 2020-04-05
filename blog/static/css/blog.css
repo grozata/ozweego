@@ -8,8 +8,8 @@ body {
 }
 
 .page-header {
-    background-color: #ff9400;
-    margin-top: 0;
+    background-color: #ff0087;
+    margin-top: 5;
     padding: 20px 20px 20px 40px;
 }
 
@@ -24,11 +24,11 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 .date {
-    color: #828282;
+    color: #000;
 }
 
 .save {
